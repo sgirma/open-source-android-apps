@@ -87,6 +87,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Open Flood](https://github.com/GunshipPenguin/open_flood) | Flood fill game for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.gunshippenguin.openflood)
+[Open Runner](https://github.com/sgirma/Open-Runner) | Open source infinite runner| C# | [![Get it on Google Play] (http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.VeldTeck.OpenRunner&hl=en)
 ###P
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
